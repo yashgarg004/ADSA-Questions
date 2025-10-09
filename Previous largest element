@@ -1,0 +1,24 @@
+class Solution {
+    static ArrayList<Integer> preGreaterEle(int[] arr) {
+        // code here
+        int n =arr.length;
+        
+        ArrayList<Integer> result = new ArrayList<>();
+        
+        Stack<Integer> st= new Stack<>();
+        
+        for(int i=0; i<n ; i++){
+            while(!st.empty() && st.peek()<=arr[i]){
+                st.pop();
+            }
+            if(st.empty()){
+                result.add(-1);
+            }else{
+                result.add(st.peek());
+            }
+            // result.add(st.empty() ? -1 : st.peek());
+            st.push(arr[i]);
+        }
+        return result ;
+    }
+}
