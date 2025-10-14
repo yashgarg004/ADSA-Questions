@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yashgarg004/ADSA-Questions/tree/master/0035-search-insert-position) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yashgarg004/ADSA-Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yashgarg004/ADSA-Questions/tree/master/0035-search-insert-position) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1646-kth-missing-positive-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yashgarg004/ADSA-Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Linked List
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Sorting
+|  |
+| ------- |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yashgarg004/ADSA-Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 <!---LeetCode Topics End-->
