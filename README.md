@@ -4,9 +4,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yashgarg004/ADSA-Questions/tree/master/0035-search-insert-position) |
 | [1646-kth-missing-positive-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1646-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yashgarg004/ADSA-Questions/tree/master/0035-search-insert-position) |
 | [1646-kth-missing-positive-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
