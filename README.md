@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yashgarg004/ADSA-Questions/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/yashgarg004/ADSA-Questions/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/yashgarg004/ADSA-Questions/tree/master/0441-arranging-coins) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashgarg004/ADSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yashgarg004/ADSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yashgarg004/ADSA-Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
