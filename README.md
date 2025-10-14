@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yashgarg004/ADSA-Questions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/yashgarg004/ADSA-Questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/yashgarg004/ADSA-Questions/tree/master/0441-arranging-coins) |
+| [0866-rectangle-overlap](https://github.com/yashgarg004/ADSA-Questions/tree/master/0866-rectangle-overlap) |
 | [2032-largest-odd-number-in-string](https://github.com/yashgarg004/ADSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/yashgarg004/ADSA-Questions/tree/master/0278-first-bad-version) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/yashgarg004/ADSA-Questions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
