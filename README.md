@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yashgarg004/ADSA-Questions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/yashgarg004/ADSA-Questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashgarg004/ADSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yashgarg004/ADSA-Questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/yashgarg004/ADSA-Questions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/yashgarg004/ADSA-Questions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/yashgarg004/ADSA-Questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/yashgarg004/ADSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
