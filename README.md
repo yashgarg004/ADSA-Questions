@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yashgarg004/ADSA-Questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/yashgarg004/ADSA-Questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yashgarg004/ADSA-Questions/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/yashgarg004/ADSA-Questions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/yashgarg004/ADSA-Questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yashgarg004/ADSA-Questions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/yashgarg004/ADSA-Questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/yashgarg004/ADSA-Questions/tree/master/0441-arranging-coins) |
 | [0866-rectangle-overlap](https://github.com/yashgarg004/ADSA-Questions/tree/master/0866-rectangle-overlap) |
