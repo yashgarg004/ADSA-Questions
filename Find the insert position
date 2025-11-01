@@ -1,0 +1,29 @@
+CodeChef 
+
+class Solution {
+    public int searchInsertPosition(int[] arr, int target) {
+        // write your code here 
+        int n=arr.length;
+        int left=0;
+        int right=n-1;
+        int res=0;
+        
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            if(arr[mid]==target){
+                return mid;
+            }else if(arr[mid]>target) {
+                right=mid-1;
+                if(target>right && target<arr[mid]){
+                    res=mid;
+                }
+                
+            }else if(arr[mid]<target){
+                left=mid+1;
+                res=mid+1;
+                
+            }
+        }
+        return res;
+    }
+}
