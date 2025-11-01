@@ -1,0 +1,37 @@
+  static long allocateBooks(long[] books, int N, int M) {
+      // completet the function...
+      long low=0;
+      long high=0;
+      
+      for(long book:books){
+          low=Math.max(low,book);
+          high+=book;
+      }
+      
+      while(low<high){
+          long mid=low+(high-low)/2;
+          if(canread( books, M , mid)){
+              high=mid;
+          }else{
+              low=mid+1;
+          }
+      }
+      return low;
+  }
+  
+  static boolean canread(long[] books, int M, long mid){
+      int count=1;
+      long read=0;
+      
+      for(long book:books){
+          if(read+book>mid){
+              count++;
+              read=0;
+          }
+          read+=book;
+          if(count>M){
+              return false;
+          }
+      }
+      return true;
+ }
