@@ -1,0 +1,48 @@
+CodeChef : The Great Painting Showdown
+
+
+    static long minTime(int A, int B, long[] C) {
+        long n = C.length;
+        long low = 0;
+        long high = 0;
+
+        for (long board : C) {
+            low = Math.max(low, board);
+            high += board;
+        }
+
+        long ans = high;
+
+        while (low <= high) {
+            long mid = low + (high - low) / 2;
+            if (canload(C, A, mid)) {
+                ans = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
+            }
+        }
+
+        return (ans * B) % 10000003;
+    }
+
+    static boolean canload(long[] C, int A, long mid) {
+        int count = 1;
+        long paint = 0;
+
+        for (long board : C) {
+            if (board > mid) return false;
+
+            if (paint + board > mid) {
+                count++;
+                paint = board;
+                if (count > A) return false;
+            } else {
+                paint += board;
+            }
+        }
+        return true;
+    }
+
+    
+
