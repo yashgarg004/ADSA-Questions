@@ -1,0 +1,53 @@
+CodeChef : Matrix Median 
+
+ static int findMedian(int[][] matrix, int N, int M) {
+     // write code here...
+    //  int s=0;
+    //  int[] median = new int[N*M];
+    // //  int low=0;
+    // //  int high=n-1;
+     
+    //  for(int i=0; i<N ;i++){
+    //      for(int j=0; j<M ;j++){
+    //          median[s++]=matrix[i][j];
+    //      }
+    //  }
+    //  Arrays.sort(median);
+     
+    //  return median[N*M/2];
+    
+    int low=Integer.MAX_VALUE , high =  Integer.MIN_VALUE;
+    for(int i =0; i<N; i++){
+        low=Math.min(low , matrix[i][0]);
+        high=Math.max(high , matrix[i][M-1]);
+    }
+    int middle =(N*M+1)/2;
+    while(low<high){
+        int mid=low+(high-low)/2;
+        int place = 0;
+        for(int i=0; i<N ; i++){
+            place += mediansort(matrix[i],mid);
+        }
+        if(place<middle) {
+            low=mid+1;
+        }else{
+            high=mid;
+        }
+    }
+    return low;
+ }
+ 
+ static int mediansort(int[] row, int val){
+     int left=0;
+     int right=row.length;
+     
+     while(left<right){
+         int mid=left+(right-left)/2;
+         if(row[mid] <= val){
+             left = mid+1;
+         }else{
+             right=mid;
+         }
+     }
+     return left;
+ }
