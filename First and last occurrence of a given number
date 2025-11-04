@@ -1,0 +1,33 @@
+CodeChef: First and last occurrence of a given number
+
+class Solution {
+    public int[] searchRange(int[] arr, int key) {
+        // write your code here 
+        return new int[]{index(arr , key , true) , index(arr , key , false)};
+    }
+    
+    private int index(int[] arr , int key , boolean first){
+        int n = arr.length;
+        int left=0;
+        int right=n-1;
+        int ans =-1;
+        
+        while(left<=right){
+            int mid= left+(right-left)/2;
+            
+            if(arr[mid]==key){
+                ans=mid;
+                if(first){
+                    right = mid-1;
+                }else{
+                    left= mid+1;
+                }
+            }else if(arr[mid]>key){
+                right = mid-1;
+            }else{
+                left = mid+1;
+            }
+        }
+        return ans;
+    }
+}
