@@ -1,0 +1,28 @@
+CodeChef : Floor and ceil in a sorted array
+
+class Solution {
+    public int[] findFloorCeil(int[] arr, int k) {
+        // write your code here
+        int n=arr.length;
+        int left=0;
+        int right=n-1;
+        int f_ans=-1;
+        int c_ans=-1;
+        
+        while(left<=right){
+            int mid=left+(right-left)/2;
+            if(arr[mid]==k){
+                f_ans=arr[mid];
+                c_ans=arr[mid];
+                return new int[]{f_ans,c_ans}; 
+            }else if (arr[mid]<k){
+                f_ans=arr[mid];
+                left=mid+1;
+            }else {
+                c_ans=arr[mid];
+                right=mid-1;
+            }
+        }
+        return new int[]{f_ans , c_ans};
+    }
+}
