@@ -1,0 +1,22 @@
+CodeChef : Upper Bound in a Sorted Array
+
+static int upperBound(int[] nums, int x) {
+     //write code here...
+     int n=nums.length;
+     int left=0;
+     int right=n-1;
+     int ans=nums[right];
+     if(nums[left]>x) return 0;
+     if(nums[right]<=x) return n;
+         while(left<=right){
+            int mid=left+(right-left)/2;
+            if(nums[mid]>x){
+                ans=Math.min(ans,mid);
+                right=mid-1;
+            }else{
+                left=mid+1;
+            }
+         }
+         return ans;
+ }
+ 
