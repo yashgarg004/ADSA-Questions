@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yashgarg004/ADSA-Questions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/yashgarg004/ADSA-Questions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/yashgarg004/ADSA-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yashgarg004/ADSA-Questions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/yashgarg004/ADSA-Questions/tree/master/0231-power-of-two) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/yashgarg004/ADSA-Questions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/yashgarg004/ADSA-Questions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
