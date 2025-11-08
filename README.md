@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/yashgarg004/ADSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/yashgarg004/ADSA-Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/yashgarg004/ADSA-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashgarg004/ADSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/yashgarg004/ADSA-Questions/tree/master/0031-next-permutation) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashgarg004/ADSA-Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/yashgarg004/ADSA-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashgarg004/ADSA-Questions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashgarg004/ADSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yashgarg004/ADSA-Questions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0088-merge-sorted-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yashgarg004/ADSA-Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
