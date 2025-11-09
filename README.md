@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/yashgarg004/ADSA-Questions/tree/master/0441-arranging-coins) |
 | [0866-rectangle-overlap](https://github.com/yashgarg004/ADSA-Questions/tree/master/0866-rectangle-overlap) |
 | [2032-largest-odd-number-in-string](https://github.com/yashgarg004/ADSA-Questions/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/yashgarg004/ADSA-Questions/tree/master/2083-three-divisors) |
 ## String
 |  |
 | ------- |
@@ -174,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/yashgarg004/ADSA-Questions/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/yashgarg004/ADSA-Questions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
