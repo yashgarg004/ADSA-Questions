@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yashgarg004/ADSA-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/yashgarg004/ADSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/yashgarg004/ADSA-Questions/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/yashgarg004/ADSA-Questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/yashgarg004/ADSA-Questions/tree/master/0441-arranging-coins) |
 | [0866-rectangle-overlap](https://github.com/yashgarg004/ADSA-Questions/tree/master/0866-rectangle-overlap) |
+| [1013-fibonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/yashgarg004/ADSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/yashgarg004/ADSA-Questions/tree/master/2083-three-divisors) |
 ## String
@@ -203,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/yashgarg004/ADSA-Questions/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
