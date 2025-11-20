@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yashgarg004/ADSA-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yashgarg004/ADSA-Questions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/yashgarg004/ADSA-Questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/yashgarg004/ADSA-Questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/yashgarg004/ADSA-Questions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/yashgarg004/ADSA-Questions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/yashgarg004/ADSA-Questions/tree/master/0441-arranging-coins) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yashgarg004/ADSA-Questions/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashgarg004/ADSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yashgarg004/ADSA-Questions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/yashgarg004/ADSA-Questions/tree/master/2083-three-divisors) |
 ## Stack
 |  |
