@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/yashgarg004/ADSA-Questions/tree/master/0441-arranging-coins) |
 | [0866-rectangle-overlap](https://github.com/yashgarg004/ADSA-Questions/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/yashgarg004/ADSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/yashgarg004/ADSA-Questions/tree/master/2083-three-divisors) |
 ## String
@@ -215,10 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
