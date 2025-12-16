@@ -1,25 +1,32 @@
 class Solution {
     public ArrayList<Integer> bfs(ArrayList<ArrayList<Integer>> adj) {
         ArrayList<Integer> ans = new ArrayList<>();
-        int V = adj.size();
-        
-        boolean[] visited = new boolean[V];
+        boolean[] visited = new boolean[adj.size()];
         Queue<Integer> q = new LinkedList<>();
         
         q.add(0);
         visited[0] = true;
         
-        while (!q.isEmpty()) {
-            int node = q.poll();
-            ans.add(node);
-            
-            for (int neigh : adj.get(node)) {
-                if (!visited[neigh]) {
-                    visited[neigh] = true;
-                    q.add(neigh);
-                }
+        bfsRecursive(adj, q, visited, ans);
+        return ans;
+    }
+    
+    private void bfsRecursive(ArrayList<ArrayList<Integer>> adj, Queue<Integer> q, 
+                              boolean[] visited, ArrayList<Integer> ans) {
+        if (q.isEmpty()) {
+            return;
+        }
+        
+        int node = q.poll();
+        ans.add(node);
+        
+        for (int neighbor : adj.get(node)) {
+            if (!visited[neighbor]) {
+                visited[neighbor] = true;
+                q.add(neighbor);
             }
         }
-        return ans;
+        
+        bfsRecursive(adj, q, visited, ans);
     }
 }
