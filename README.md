@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yashgarg004/ADSA-Questions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2047-find-a-peak-element-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashgarg004/ADSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [4024-nearest-available-drone](https://github.com/yashgarg004/ADSA-Questions/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/yashgarg004/ADSA-Questions/tree/master/2083-three-divisors) |
+| [4024-nearest-available-drone](https://github.com/yashgarg004/ADSA-Questions/tree/master/4024-nearest-available-drone) |
 ## Number Theory
 |  |
 | ------- |
