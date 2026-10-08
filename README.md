@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yashgarg004/ADSA-Questions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/yashgarg004/ADSA-Questions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/yashgarg004/ADSA-Questions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/yashgarg004/ADSA-Questions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/yashgarg004/ADSA-Questions/tree/master/0077-combinations) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashgarg004/ADSA-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
