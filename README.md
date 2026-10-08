@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashgarg004/ADSA-Questions/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/yashgarg004/ADSA-Questions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/yashgarg004/ADSA-Questions/tree/master/0077-combinations) |
+| [0216-combination-sum-iii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashgarg004/ADSA-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
