@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashgarg004/ADSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yashgarg004/ADSA-Questions/tree/master/0058-length-of-last-word) |
+| [0093-restore-ip-addresses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/yashgarg004/ADSA-Questions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/yashgarg004/ADSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/yashgarg004/ADSA-Questions/tree/master/0344-reverse-string) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/yashgarg004/ADSA-Questions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/yashgarg004/ADSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashgarg004/ADSA-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
