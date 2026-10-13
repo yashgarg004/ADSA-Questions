@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashgarg004/ADSA-Questions/tree/master/0162-find-peak-element) |
+| [0213-house-robber-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/yashgarg004/ADSA-Questions/tree/master/0131-palindrome-partitioning) |
+| [0213-house-robber-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashgarg004/ADSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1137-n-th-tribonacci-number) |
