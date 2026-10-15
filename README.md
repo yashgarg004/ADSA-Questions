@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashgarg004/ADSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashgarg004/ADSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/2047-find-a-peak-element-ii) |
@@ -261,10 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/yashgarg004/ADSA-Questions/tree/master/0101-symmetric-tree) |
+| [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/yashgarg004/ADSA-Questions/tree/master/0101-symmetric-tree) |
+| [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/yashgarg004/ADSA-Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0052-n-queens-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
