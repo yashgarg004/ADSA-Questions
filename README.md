@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashgarg004/ADSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/yashgarg004/ADSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0213-house-robber-ii) |
+| [0542-01-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashgarg004/ADSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/yashgarg004/ADSA-Questions/tree/master/1137-n-th-tribonacci-number) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/yashgarg004/ADSA-Questions/tree/master/0101-symmetric-tree) |
+| [0542-01-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
