@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/yashgarg004/ADSA-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yashgarg004/ADSA-Questions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0994-rotting-oranges](https://github.com/yashgarg004/ADSA-Questions/tree/master/0994-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashgarg004/ADSA-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yashgarg004/ADSA-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/yashgarg004/ADSA-Questions/tree/master/0994-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/2047-find-a-peak-element-ii) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yashgarg004/ADSA-Questions/tree/master/0101-symmetric-tree) |
 | [0542-01-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/yashgarg004/ADSA-Questions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
