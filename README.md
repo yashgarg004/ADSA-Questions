@@ -268,12 +268,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/yashgarg004/ADSA-Questions/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/yashgarg004/ADSA-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/yashgarg004/ADSA-Questions/tree/master/0101-symmetric-tree) |
 | [0542-01-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/yashgarg004/ADSA-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/yashgarg004/ADSA-Questions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -292,5 +294,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/yashgarg004/ADSA-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/yashgarg004/ADSA-Questions/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yashgarg004/ADSA-Questions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
