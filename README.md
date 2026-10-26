@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashgarg004/ADSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/yashgarg004/ADSA-Questions/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/yashgarg004/ADSA-Questions/tree/master/0125-valid-palindrome) |
@@ -231,11 +232,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/yashgarg004/ADSA-Questions/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/yashgarg004/ADSA-Questions/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/yashgarg004/ADSA-Questions/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/yashgarg004/ADSA-Questions/tree/master/0542-01-matrix) |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/yashgarg004/ADSA-Questions/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/yashgarg004/ADSA-Questions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
